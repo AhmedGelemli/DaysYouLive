@@ -1,8 +1,8 @@
 import datetime
 
-print("This program is showing you how many day are you living?")
-
+print("This program is shows you how many days did you live?")
 print("When is your birthday?")
+print("------------------------")
 year = int(input('Year:'))
 month = int(input('Month:'))
 day = int(input('Day:'))
